@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.BLL", "Project.BLL\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.MVCUI", "Project.MVCUI\Project.MVCUI.csproj", "{62A149F0-88A6-4A69-A4DD-9584C31EAA6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{B4F8B53D-B450-4829-91A7-C100703D0627}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{62A149F0-88A6-4A69-A4DD-9584C31EAA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62A149F0-88A6-4A69-A4DD-9584C31EAA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62A149F0-88A6-4A69-A4DD-9584C31EAA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F8B53D-B450-4829-91A7-C100703D0627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F8B53D-B450-4829-91A7-C100703D0627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F8B53D-B450-4829-91A7-C100703D0627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F8B53D-B450-4829-91A7-C100703D0627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
